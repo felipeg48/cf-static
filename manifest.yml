@@ -1,0 +1,6 @@
+---
+applications:
+- name: simple
+  memory: 64M
+  host: simple
+
